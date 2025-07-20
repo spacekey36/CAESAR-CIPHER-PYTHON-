@@ -1,0 +1,30 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# macOS and Linux system files
+.DS_Store
+
+# IDE/editor settings
+.vscode/
+.idea/
+
+# Logs or test artifacts
+*.log
+
+# Python package files (in case you expand the project)
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# dotenv or secrets
+.env
